@@ -1,0 +1,17 @@
+{
+  "name": "demo/Driver",
+  "type": "october-plugin",
+  "keywords": ["october", "cms", "plugin"],
+  "license": "MIT",
+
+  "authors": [
+    {
+      "name": "Filip Pacurar",
+      "email": "filip@pacurar.net"
+    }
+  ],
+  "require": {
+    "php": ">=5.4",
+    "maknz/slack": "~1.5"
+  }
+}
